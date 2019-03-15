@@ -15,7 +15,7 @@
 + 代码管理 git，私服gitlab, [Commitizen执行规范](https://github.com/commitizen/cz-cli)
 + 代码规范工具：[eslint](http://eslint.org/)
 + 单元测试 [vue-test-utils](https://vue-test-utils.vuejs.org/zh-cn/)
-+ 其他：[ES6](https://wohugb.gitbooks.io/ecmascript-6/content/index.html),[node.js](https://nodejs.org/en/),[npm](https://www.npmjs.com/),[alias](https://webpack.js.org/configuration/resolve/),[lodash](https://www.lodashjs.com/)
++ 其他：[ES6](https://wohugb.gitbooks.io/ecmascript-6/content/index.html),[node.js](https://nodejs.org/en/),[npm](https://www.npmjs.com/),[yarn](https://yarnpkg.com/lang/zh-hans/),[alias](https://webpack.js.org/configuration/resolve/),[lodash](https://www.lodashjs.com/)
 
 
 ## 代码规范
